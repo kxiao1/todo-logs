@@ -1,0 +1,6 @@
+[submodule "todo-logs-backend"]
+	path = todo-logs-backend
+	url = https://github.com/kxiao1/todo-logs-backend
+[submodule "todo-logs-frontend"]
+	path = todo-logs-frontend
+	url = https://github.com/kxiao1/todo-logs-frontend
